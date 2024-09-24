@@ -1,0 +1,20 @@
+# Python cache-filer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuella miljöer
+venv/
+
+# Miljövariabler
+.env
+
+# Loggfiler
+*.log
+
+# Cache-filer
+fetched_data_cache.json
+
+# Temporära filer
+~$
