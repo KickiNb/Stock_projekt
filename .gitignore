@@ -11,8 +11,7 @@ venv/
 .env
 
 # Loggfiler
-*.loggit 
+*.log
 
 # Cache-filer
 fetched_data_cache.json
-
